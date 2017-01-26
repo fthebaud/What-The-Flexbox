@@ -38,7 +38,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 }
 
 .box2 {
-  flex:1 1 400px;
+  flex:2 4 30px;
 }
 
 
